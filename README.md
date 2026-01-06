@@ -1,5 +1,12 @@
 # Specifications
 
+## Architecture
+
+  * [Infrastructure](https://github.com/hexpm/specifications/blob/master/infrastructure.md) - C4 diagrams (Context, Container, Deployment)
+  * [Client Flows](https://github.com/hexpm/specifications/blob/master/client-flows.md) - Sequence diagrams for mix, rebar3, gleam
+
+## Protocol Specifications
+
   * [Endpoints](https://github.com/hexpm/specifications/blob/master/endpoints.md)
   * [HTTP API](https://github.com/hexpm/specifications/blob/master/http_api.md)
   * [ETS registry format](https://github.com/hexpm/specifications/blob/master/registry-v1.md) (Deprecated)
